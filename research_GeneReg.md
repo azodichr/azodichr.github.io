@@ -5,7 +5,11 @@ show-avatar: true
 category: Jekyll
 ---
 
-![StressHeatMap](img/research/comb_stressHM.png)
+
+<p align='center'>
+	<img src="../img/research/comb_stressHM.png" alt='CombStress' height="200px">
+</p>
+
 
 I am fascinated by the complexity of how crop plants respond to environmental stresses, particularly stresses disrupting agricultural systems due to climate change. Plants are diverse in their response to stress, yet across species these pathways are tightly regulated and largely interwoven. By interwoven, I mean that many of the components that regulate response function in response to more than one kind of stress. This "crosstalk" between pathways makes it difficult for us to predict how plants will respond to multiple stresses based on the kind of single stress studies commonly done in labs.
 
