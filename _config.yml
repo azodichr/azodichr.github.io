@@ -27,7 +27,7 @@ navbar-links:
     - Gene.Regulation: "comb_stress"
     - Genomic.Prediction
     - Opinions.of.Biotechnology
-  BLOG: "_posts/"
+  BLOG: "blog"
   LINKS:
     - GitHub: "https://github.com/azodichr"
     - LinkedIn: "https://www.linkedin.com/in/christina-azodi-6a969b45/"
