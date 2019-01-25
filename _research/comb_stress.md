@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Oscar Nominees: Who's worth what in 2016?
+layout: page
+title: Regulation of plant response to combined stress
 image: /img/blogs/OscarNom_NetWorth.jpeg
 ---
 

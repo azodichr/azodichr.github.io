@@ -24,7 +24,7 @@ description: Christina Azodi PhD Candidate in Plant Biology
 # List of links in the navigation bar
 navbar-links:
   RESEARCH: 
-    - Gene.Regulation
+    - Gene.Regulation: _research/comb_stress.md
     - Genomic.Prediction
     - Opinions.of.Biotechnology
   BLOG:
