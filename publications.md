@@ -25,4 +25,6 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 <img src="../img/pubs/journal-article.png" height="20px"> D'Aloia CC, **Azodi CB**, Sheldon SP, Trombulak SC, Ardren WR. (2015) *Genetic models reveal historical patterns of sea lamprey population fluctuations within Lake Champlain.* PeerJ. 3:e1369 [Find Here](https://peerj.com/articles/1369/)
 
 
+_______________
+
 <sup>co</sup> designates co-first author

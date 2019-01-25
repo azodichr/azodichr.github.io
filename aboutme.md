@@ -5,7 +5,7 @@ subtitle: In a nutshell...
 ---
 
 <p align='center'>
-	<img src="../img/headshot_COM.jpg" alt='CBA Headshot' height="200px">
+	<img src="../img/headshot_COM.jpg" alt='CBA Headshot' height="300px">
 </p>
 
 
