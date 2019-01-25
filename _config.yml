@@ -24,13 +24,15 @@ description: Christina Azodi PhD Candidate in Plant Biology
 # List of links in the navigation bar
 navbar-links:
   RESEARCH: 
-    - Gene.Regulation: "comb_stress"
-    - Genomic.Prediction
+    - Gene.Regulation: "research_GeneReg"
+    - Genomic.Prediction: "research_GP"
     - Opinions.of.Biotechnology
+  PUBLICATIONS: "publications"
   BLOG: "blog"
   LINKS:
     - GitHub: "https://github.com/azodichr"
     - LinkedIn: "https://www.linkedin.com/in/christina-azodi-6a969b45/"
+    - Twitter: "https://twitter.com/cbazodi"
   About Me: "aboutme"
 
 

@@ -9,9 +9,9 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 <img src="../img/pubs/inreview.png" height="20px"> Uygun S[e], Azodi, CB[e], Shiu, SH. *Cis-regulatory code for predicting plant cell-type specific high salinity response* [e] designates co-first author [bioRxiv](https://doi.org/10.1101/466326) 
 
-<img src="../img/inreview.png" height="20px">Lloyd JP, Bowman MJ, Azodi, CB, Moghe, GD, Childs KL, Shiu, SH. *Evolutionary characteristics of intergenic transcribed regions indicate widespread noisy transcription in the Poaceae* [bioRxiv](https://doi.org/10.1101/440933)
+<img src="../img/pubs/inreview.png" height="20px">Lloyd JP, Bowman MJ, Azodi, CB, Moghe, GD, Childs KL, Shiu, SH. *Evolutionary characteristics of intergenic transcribed regions indicate widespread noisy transcription in the Poaceae* [bioRxiv](https://doi.org/10.1101/440933)
 
-<img src="../img/inreview.png" height="20px">Panchy NL, Azodi CB, Winship EF, O'Malley RC, Shiu SH. *Asymmetric evolution of the transcription profiles and cis-regulatory sites contributes to the retention of transcription factor duplicates.* [bioRxiv](https://doi.org/10.1101/115857)
+<img src="../img/pubs/inreview.png" height="20px">Panchy NL, Azodi CB, Winship EF, O'Malley RC, Shiu SH. *Asymmetric evolution of the transcription profiles and cis-regulatory sites contributes to the retention of transcription factor duplicates.* [bioRxiv](https://doi.org/10.1101/115857)
 
 
 ## 2017
