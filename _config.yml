@@ -31,6 +31,7 @@ navbar-links:
   BLOG: "blog"
   LINKS:
     - GitHub: "https://github.com/azodichr"
+    - GoogleScholar: "https://scholar.google.com/citations?user=JBAP86YAAAAJ&hl=en"
     - LinkedIn: "https://www.linkedin.com/in/christina-azodi-6a969b45/"
     - Twitter: "https://twitter.com/cbazodi"
   About Me: "aboutme"
@@ -62,7 +63,7 @@ footer-link-col: "#404040"
 # instead of colour
 
 # navbar-img: "/img/bgimage.png"
-# footer-img: "/img/bgimage.png"
+footer-img: "/img/footer.jpg"
 # page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
@@ -101,7 +102,7 @@ share-links-active:
   twitter: true
   facebook: false
   google: false
-  google-scholar: true
+  google-scholar: false
   linkedin: true
 
 # How to display the link to the website in the footer
