@@ -27,9 +27,7 @@ navbar-links:
     - Gene.Regulation: "_research/comb_stress"
     - Genomic.Prediction
     - Opinions.of.Biotechnology
-  BLOG:
-    - Outreach: "http://deanattali.com/beautiful-jekyll/"
-    - Data.Viz: "http://www.markdowntutorial.com/"
+  BLOG: "_posts/"
   LINKS:
     - GitHub: "https://github.com/azodichr"
     - LinkedIn: "https://www.linkedin.com/in/christina-azodi-6a969b45/"
