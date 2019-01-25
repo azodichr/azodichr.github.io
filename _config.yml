@@ -26,15 +26,15 @@ navbar-links:
   RESEARCH: 
     - Gene.Regulation: "research_GeneReg"
     - Genomic.Prediction: "research_GP"
-    - Opinions.of.Biotechnology
+    - Opinions.of.Biotechnology: "research_biotech"
+  OUTREACH: "outreach"
   PUBLICATIONS: "publications"
-  BLOG: "blog"
-  LINKS:
+  About Me:
+    - About Me: "aboutme"
     - GitHub: "https://github.com/azodichr"
-    - GoogleScholar: "https://scholar.google.com/citations?user=JBAP86YAAAAJ&hl=en"
+    - G.Scholar: "https://scholar.google.com/citations?user=JBAP86YAAAAJ&hl=en"
     - LinkedIn: "https://www.linkedin.com/in/christina-azodi-6a969b45/"
     - Twitter: "https://twitter.com/cbazodi"
-  About Me: "aboutme"
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
