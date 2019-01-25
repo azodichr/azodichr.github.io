@@ -24,9 +24,9 @@ description: Christina Azodi PhD Candidate in Plant Biology
 # List of links in the navigation bar
 navbar-links:
   RESEARCH: 
-    - Gene.Regulation: "research_GeneReg"
-    - Genomic.Prediction: "research_GP"
-    - Opinions.of.Biotechnology: "research_biotech"
+    - Gene Regulation: "research_GeneReg"
+    - Genomic Prediction: "research_GP"
+    - Opinions on Biotech: "research_biotech"
   OUTREACH: "outreach"
   PUBLICATIONS: "publications"
   About Me:
