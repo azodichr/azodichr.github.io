@@ -5,7 +5,7 @@ title: genomic prediction using deep learning
 ---
 
 <p align="center">
-  <img src="/research/GP_flowchart.png" alg='GP_flowchart' />
+  <img src="https://github.com/azodichr/azodichr.github.io/img/research/GP_flowchart.png" alg='GP_flowchart' />
 </p>
 
 
