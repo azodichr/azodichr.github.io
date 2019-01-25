@@ -34,7 +34,7 @@ google-plus:
 google-scholar:
   name: "Google Scholar"
   baseURL: "https://scholar.google.com/"
-  icon: "ai-google-scholar"
+  icon: "ai ai-google-scholar"
 
 email:
   name: "Email me"
