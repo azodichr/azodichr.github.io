@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Regulation of plant response to combined abiotic stress
-
+title: plant response to combined stress
+show-avatar: true
+category: Jekyll
 ---
 
 ![StressHeatMap](img/research/comb_stressHM.png)
