@@ -5,7 +5,7 @@ subtitle: PhD Candidate in Plant Biology
 use-site-title: true
 ---
 
-|[EDUCATION](#education)  |[RESEARCH](#research-experience) |[TEACHING/OUTREACH](#teaching-and-outreach)  |[+MORE](#Honors-and-awards)|
+&nbsp;[EDUCATION](#education) &nbsp; &nbsp; [RESEARCH](#research-experience) &nbsp; &nbsp; [TEACHING/OUTREACH](#teaching-and-outreach) &nbsp; &nbsp; [+MORE](#honors-and-awards)|
 
 
 Working on a personal statement
@@ -30,7 +30,7 @@ Working on a personal statement
 
 
 
-## Teaching and Outreach Experience
+## Teaching and Outreach
 
 
 
