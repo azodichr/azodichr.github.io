@@ -18,7 +18,7 @@ Working on a personal statement
 ## Recent News
 
 
-## Education
+## <img src="../img/cv/education.png" height="40px"> 
 
 |Time     |Degree     |School     |Location     |
 |---  |---  |---  |---  |
