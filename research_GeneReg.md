@@ -2,7 +2,7 @@
 layout: page
 title: plant response to combined stress
 show-avatar: true
-bigimg: ../img/research/arab_drought.jpg
+bigimg: ../img/research/corn-drought.jpg
 category: Jekyll
 ---
 
