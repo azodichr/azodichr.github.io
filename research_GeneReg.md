@@ -13,8 +13,8 @@ In nature, plants are rarely exposed to just one stress at a time, so understand
 
 <figure>
 	<p align='center'>
-		<img src="../img/research/omic_integration.png" alt='CombStress' height="200px">
-		<figcaption>A framework for the computational identification of pCREs. Gene expression data specific to a biological question is needed to identify a set of likely co-regulated genes. Publically available omic-scale datasets can be used to supplement the question specific data using modeling integration methods such as machine learning.</figcaption>
+		<img src="../img/research/omic_integration.png" alt='CombStress' height="300px">
+		<figcaption><small>A framework for the computational identification of pCREs. Gene expression data specific to a biological question is needed to identify a set of likely co-regulated genes. Publically available omic-scale datasets can be used to supplement the question specific data using modeling integration methods such as machine learning.</small></figcaption>
 
 	</p>
 </figure>
