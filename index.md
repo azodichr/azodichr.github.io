@@ -18,7 +18,7 @@ use-site-title: true
 ## Recent News
 
 
-##EDUCATION.
+## EDUCATION.
 
 ---------
 
@@ -26,7 +26,7 @@ use-site-title: true
 |Aug 2008 - May 2012     |B.A. in Molecular Biology and Biochemistry     | Middlebury College    |Middlebury, VT    |
 
 
-##RESEARCH EXPERIENCE
+## RESEARCH EXPERIENCE
 
 |Time     |Position     |School     |Location     |
 |---  |---  |---  |---  |
