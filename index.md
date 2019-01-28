@@ -5,10 +5,10 @@ subtitle: PhD Candidate in Plant Biology
 use-site-title: true
 ---
 
-&nbsp;[EDUCATION](#education) &nbsp; &nbsp; [RESEARCH](#research) &nbsp; &nbsp; [TEACHING/OUTREACH](#teaching-and-outreach) &nbsp; &nbsp; [+MORE](#honors-and-awards)
+&nbsp; &nbsp;[EDUCATION](#education.) &nbsp; &nbsp; [RESEARCH](#research) &nbsp; &nbsp; [TEACHING](#teaching-and-mentoring) &nbsp; &nbsp; [OUTREACH](#outreach-and-service) &nbsp; &nbsp; [AWARDS](#honors-and-awards) 
 
 
-Working on a personal statement
+> Working on a personal statement
 
 
 
@@ -18,16 +18,15 @@ Working on a personal statement
 ## Recent News
 
 
-##<span style="color:blue">some EDUCATION. text</span>
+##EDUCATION.
 
+---------
 
-|Time     |Degree     |School     |Location     |
-|---  |---  |---  |---  |
 |June 2014 - Current     |Ph.D. in Plant Biology     |Michigan State University     |East Lansing, MI     |
 |Aug 2008 - May 2012     |B.A. in Molecular Biology and Biochemistry     | Middlebury College    |Middlebury, VT    |
 
 
-##![research](../img/cv/research.png)
+##RESEARCH EXPERIENCE
 
 |Time     |Position     |School     |Location     |
 |---  |---  |---  |---  |
@@ -35,12 +34,15 @@ Working on a personal statement
 |Aug 2008 - May 2012     |B.A. in Molecular Biology and Biochemistry     | Middlebury College    |Middlebury, VT    |
 
 
-## Teaching and Outreach
+## TEACHING AND MENTORING
 
 |Time     |Degree     |School     |Location     |
 |---  |---  |---  |---  |
 |June 2014 - Current     |Ph.D. in Plant Biology     |Michigan State University     |East Lansing, MI     |
 |Aug 2008 - May 2012     |B.A. in Molecular Biology and Biochemistry     | Middlebury College    |Middlebury, VT    |
+
+
+## OUTREACH AND SERVICE
 
 
 ## Honors and Awards
