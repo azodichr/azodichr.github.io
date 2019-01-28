@@ -5,7 +5,7 @@ subtitle: PhD Candidate in Plant Biology
 use-site-title: true
 ---
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[EDUCATION](#education) &nbsp; &nbsp; [RESEARCH](#research-experience) &nbsp; &nbsp; [TEACHING](#teaching-and-mentoring) &nbsp; &nbsp; [OUTREACH](#outreach-and-service) &nbsp; &nbsp; [AWARDS](#honors-and-awards) 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[EDUCATION](#education) &nbsp; &nbsp; [RESEARCH](#research-experience) &nbsp; &nbsp; [TEACHING](#teaching-and-mentoring) &nbsp; &nbsp; [OUTREACH](#outreach-and-service) &nbsp; &nbsp; [AWARDS](#honors-and-awards) 
 
 
 > Working on a personal statement
