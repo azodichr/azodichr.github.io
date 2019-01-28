@@ -5,7 +5,7 @@ subtitle: PhD Candidate in Plant Biology
 use-site-title: true
 ---
 
-&nbsp;[EDUCATION](#edu) &nbsp; &nbsp; [RESEARCH](#research) &nbsp; &nbsp; [TEACHING/OUTREACH](#teaching-and-outreach) &nbsp; &nbsp; [+MORE](#honors-and-awards)
+&nbsp;[EDUCATION](#education) &nbsp; &nbsp; [RESEARCH](#research) &nbsp; &nbsp; [TEACHING/OUTREACH](#teaching-and-outreach) &nbsp; &nbsp; [+MORE](#honors-and-awards)
 
 
 Working on a personal statement
@@ -18,7 +18,8 @@ Working on a personal statement
 ## Recent News
 
 
-##![edu](../img/cv/education.png)
+##<span style="color:blue">some EDUCATION. text</span>
+
 
 |Time     |Degree     |School     |Location     |
 |---  |---  |---  |---  |
