@@ -5,7 +5,7 @@ subtitle: PhD Candidate in Plant Biology
 use-site-title: true
 ---
 
-&nbsp;[EDUCATION](#education-icon) &nbsp; &nbsp; [RESEARCH](#research-icon) &nbsp; &nbsp; [TEACHING/OUTREACH](#teaching-and-outreach) &nbsp; &nbsp; [+MORE](#honors-and-awards)|
+&nbsp;[EDUCATION](#edu) &nbsp; &nbsp; [RESEARCH](#research) &nbsp; &nbsp; [TEACHING/OUTREACH](#teaching-and-outreach) &nbsp; &nbsp; [+MORE](#honors-and-awards)
 
 
 Working on a personal statement
@@ -18,7 +18,7 @@ Working on a personal statement
 ## Recent News
 
 
-## <img src="../img/cv/education.png" alt="eduction-icon" height="40px"> 
+##[edu](../img/cv/education.png)
 
 |Time     |Degree     |School     |Location     |
 |---  |---  |---  |---  |
@@ -26,7 +26,7 @@ Working on a personal statement
 |Aug 2008 - May 2012     |B.A. in Molecular Biology and Biochemistry     | Middlebury College    |Middlebury, VT    |
 
 
-## <img src="../img/cv/research.png" alt="research-icon" height="40px"> 
+##[research](../img/cv/research.png)
 
 |Time     |Position     |School     |Location     |
 |---  |---  |---  |---  |
