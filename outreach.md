@@ -12,7 +12,7 @@ Engaging young people into computational research can be challenging. Check out 
 
 
 
-
+---------
 # Code Like a Girl
 
 <figure>
@@ -53,10 +53,10 @@ Move on to puzzle 2. The goal of puzzle two is to make it from start to finish a
 ### Step 4. Challenge mode
 Puzzle 3 is a lot of fun because there are a few solutions, but they all involve writing functions. The patterns in this puzzle are also less easy to spot, so it's best to do this one after they've completed puzzle 2. If you're working in a 30 minute time frame, I would suggest going through steps 1-2 together, then splitting into two groups, group one does puzzle 2 and group two does puzzle 3. Then at the end the groups can do a show-and-tell explaining what they had to do to the other group, talking about why it was difficult, and how they solved it. 
 
-Again, all of the puzzles and code cards are available [here](https://github.com/azodichr/Outreach/tree/master/code_like_a_girl). If you have questions about how to implement this at your own science outreach event please find me on twitter @cbazodi. I would also be happy to add new puzzles to the document so if you design something new let me know!
+Again, all of the puzzles and code cards are available [here](https://github.com/azodichr/Outreach/tree/master/code_like_a_girl). If you have questions about how to implement this at your own science outreach event please find me on twitter [@cbazodi](https://twitter.com/cbazodi). I would also be happy to add new puzzles to the document so if you design something new let me know!
 
 
-
+---------
 # Assemble this
 
-### Coming soon!
+>Coming soon!
