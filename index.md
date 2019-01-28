@@ -18,7 +18,7 @@ Working on a personal statement
 ## Recent News
 
 
-##[edu](../img/cv/education.png)
+##![edu](../img/cv/education.png)
 
 |Time     |Degree     |School     |Location     |
 |---  |---  |---  |---  |
@@ -26,7 +26,7 @@ Working on a personal statement
 |Aug 2008 - May 2012     |B.A. in Molecular Biology and Biochemistry     | Middlebury College    |Middlebury, VT    |
 
 
-##[research](../img/cv/research.png)
+##![research](../img/cv/research.png)
 
 |Time     |Position     |School     |Location     |
 |---  |---  |---  |---  |
