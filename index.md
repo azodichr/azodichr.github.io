@@ -49,8 +49,8 @@ use-site-title: true
 
 * **Teaching Assistant.** Plant Physiology Lab. *MSU, Spring 2018*
 * **Lead Instructor.** REU 1 Day Coding Bootcamp. *MSU, Summer 2017 & 2018*
-* **Undergraduate Student Mentor** Dante Poe. *Spring 2015 - Summer 2018*
-* **REU Student Mentor** Michael Douglass. *Summer 2017*
+* **Undergraduate Student Mentor.** Dante Poe. *Spring 2015 - Summer 2018*
+* **REU Student Mentor.** Michael Douglass. *Summer 2017*
 
 
 ## OUTREACH AND SERVICE.
