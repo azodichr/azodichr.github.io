@@ -8,9 +8,9 @@ use-site-title: true
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[EDUCATION](#education) &nbsp; &nbsp; [RESEARCH](#research-experience) &nbsp; &nbsp; [TEACHING](#teaching-and-mentoring) &nbsp; &nbsp; [OUTREACH](#outreach-and-service) &nbsp; &nbsp; [AWARDS](#honors-and-awards) 
 
 
-#### Computational biologist working at the interface of data science and bioinformatics to study plant systems biology. The amount of -omic data publically available for plant and other organisms provides researchers with the opportunity to address many longstanding questions in basic and applied biology. My work focuses on integrating omic data to study the cis-regulatory code of gene regulation and to predict plant traits important to farmers.  
-
-
+<blockquote cite="http://www.worldwildlife.org/who/index.html">
+Computational biologist working at the interface of data science and bioinformatics to study plant systems biology. Research interests include predictive biology, omic data integration, gene regulatory codes, deep learning, feature importance analysis, and public perceptions of biotechnology.
+</blockquote>
 
 
 ## EDUCATION.
