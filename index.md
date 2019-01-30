@@ -8,7 +8,7 @@ use-site-title: true
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[EDUCATION](#education) &nbsp; &nbsp; [RESEARCH](#research-experience) &nbsp; &nbsp; [TEACHING](#teaching-and-mentoring) &nbsp; &nbsp; [OUTREACH](#outreach-and-service) &nbsp; &nbsp; [AWARDS](#honors-and-awards) 
 
 
-***Summary:*** *Computational biologist working at the interface of data science and bioinformatics to study plant systems biology. Research interests include predictive biology, omic data integration, gene regulatory codes, deep learning, feature importance analysis, and public perceptions of biotechnology.*
+*Computational biologist working at the interface of data science and bioinformatics to study plant systems biology. Research interests include predictive biology, omic data integration, gene regulatory codes, deep learning, feature importance analysis, and public perceptions of biotechnology.*
 
 
 
@@ -24,7 +24,7 @@ use-site-title: true
 ---------
 
 **Graduate Student.** June 2014 - Current. *Michigan State University, East Lansing MI*
->Dissertation: From genotype to phenotype with maching learning. Supervised by [Shin-Han Shiu](http://shiulab.plantbiology.msu.edu/index.php?title=Shin-Han_Shiu)
+>Dissertation: From genotype to phenotype with maching learning. Supervised by [Shin-Han Shiu](http://shiulab.plantbiology.msu.edu/index.php?title=Shin-Han_Shiu). Committee Members include: [Yuying Xie](https://cmse.msu.edu/directory/faculty/yuying-xie/), [David Lowry](https://davidbryantlowry.wordpress.com/), and [David Kramer](https://prl.natsci.msu.edu/people/faculty/david-m-kramer/).
 
 **Visiting Scientist.** August 2018 - December 2018. *Insight Center for Data Analytics, Dublin City University, Dublin Ireland.*
 >Generating artificial neural networks to model plant traits using genetic markers. Supervised by [Andrew McCarren](https://scholar.google.com/citations?user=WJJQW28AAAAJ&hl=en) and [Mark Roantree](https://scholar.google.com/citations?user=MI_tlpIAAAAJ&hl=en).
