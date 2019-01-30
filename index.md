@@ -8,9 +8,7 @@ use-site-title: true
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[EDUCATION](#education) &nbsp; &nbsp; [RESEARCH](#research-experience) &nbsp; &nbsp; [TEACHING](#teaching-and-mentoring) &nbsp; &nbsp; [OUTREACH](#outreach-and-service) &nbsp; &nbsp; [AWARDS](#honors-and-awards) 
 
 
-> Working on a personal statement
-
-
+> Computational biologist working at the interface of data science and bioinformatics to study plant systems biology. The field of biology is seeing a huge uptick the amount of -omic data (e.g. genomic, proteomic, metabolomic, epigenomic) available for many organisms. While almost daunghting, there is great opportunity to harness this data to answer basic science questions and lead to the development of useful technologies. My work focuses on integrating omic data to study the cis-regulatory code of gene regulation and to predict traits important to farmers.   
 
 
 
@@ -27,7 +25,7 @@ use-site-title: true
 ---------
 
 **Graduate Student.** June 2014 - Current. *Michigan State University, East Lansing MI*
->Dissertation Title and Description
+>Dissertation: From genotype to phenotype with maching learning. Supervised by [Shin-Han Shiu](http://shiulab.plantbiology.msu.edu/index.php?title=Shin-Han_Shiu)
 
 **Visiting Scientist.** August 2018 - December 2018. *Insight Center for Data Analytics, Dublin City University, Dublin Ireland.*
 >Generating artificial neural networks to model plant traits using genetic markers. Supervised by [Andrew McCarren](https://scholar.google.com/citations?user=WJJQW28AAAAJ&hl=en) and [Mark Roantree](https://scholar.google.com/citations?user=MI_tlpIAAAAJ&hl=en).
