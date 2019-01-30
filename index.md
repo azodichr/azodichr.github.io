@@ -8,7 +8,7 @@ use-site-title: true
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[EDUCATION](#education) &nbsp; &nbsp; [RESEARCH](#research-experience) &nbsp; &nbsp; [TEACHING](#teaching-and-mentoring) &nbsp; &nbsp; [OUTREACH](#outreach-and-service) &nbsp; &nbsp; [AWARDS](#honors-and-awards) 
 
 
-> Computational biologist working at the interface of data science and bioinformatics to study plant systems biology. The field of biology is seeing a huge uptick the amount of -omic data (e.g. genomic, proteomic, metabolomic, epigenomic) available for many organisms. While almost daunghting, there is great opportunity to harness this data to answer basic science questions and lead to the development of useful technologies. My work focuses on integrating omic data to study the cis-regulatory code of gene regulation and to predict traits important to farmers.   
+#### Computational biologist working at the interface of data science and bioinformatics to study plant systems biology. The amount of -omic data publically available for plant and other organisms provides researchers with the opportunity to address many longstanding questions in basic and applied biology. My work focuses on integrating omic data to study the cis-regulatory code of gene regulation and to predict plant traits important to farmers.  
 
 
 
