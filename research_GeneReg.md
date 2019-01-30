@@ -1,6 +1,6 @@
 ---
 layout: page
-title: plant response to combined stress
+title: modeling gene regulation
 show-avatar: true
 bigimg: ../img/research/corn-drought.jpg
 category: Jekyll

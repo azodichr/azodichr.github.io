@@ -1,6 +1,6 @@
 ---
 layout: page
-title: genomic prediction
+title: deep learning 4 genomic prediction
 
 ---
 
