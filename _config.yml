@@ -78,11 +78,11 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+  rss: false
   email: "azodichr@msu.edu"
   github: azodichr
   twitter: cbazodi
-  google-scholar: "Christina Azodi"
+  google-scholar: "/citations?user=JBAP86YAAAAJ&hl=en"
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
