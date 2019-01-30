@@ -8,7 +8,7 @@ use-site-title: true
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[EDUCATION](#education) &nbsp; &nbsp; [RESEARCH](#research-experience) &nbsp; &nbsp; [TEACHING](#teaching-and-mentoring) &nbsp; &nbsp; [OUTREACH](#outreach-and-service) &nbsp; &nbsp; [AWARDS](#honors-and-awards) 
 
 
-*Computational biologist working at the interface of data science and bioinformatics to study plant systems biology. Research interests include predictive biology, omic data integration, gene regulatory codes, deep learning, feature importance analysis, and public perceptions of biotechnology.*
+*Computational biologist working at the interface of data science & bioinformatics to study plant systems biology. Research interests include predictive biology, omic data integration, gene regulatory codes, deep learning, feature importance analysis, & perceptions of biotechnology.*
 
 
 
