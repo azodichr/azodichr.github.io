@@ -34,7 +34,7 @@ google-plus:
 google-scholar:
   name: "Google Scholar"
   baseURL: "https://scholar.google.com/"
-  icon: "fa-graduation-cap"
+  icon: "fa-google-plus"
 
 email:
   name: "Email me"
