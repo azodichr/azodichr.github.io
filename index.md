@@ -48,14 +48,14 @@ use-site-title: true
 ---------
 
 * **Teaching Assistant.** Plant Physiology Lab. *MSU, Spring 2018*
-* **Lead Instructor.** REU 1 Day Coding Bootcamp. *MSU, Summer 2017 & 2018*
+* **Lead Instructor.** REU 1 Day [Coding Bootcamp](https://github.com/azodichr/CompBio_Bootcamp). *MSU, Summer 2017 & 2018*
 * **Undergraduate Student Mentor.** Dante Poe. *Spring 2015 - Summer 2018*
 * **REU Student Mentor.** Michael Douglass. *Summer 2017*
 
 
 ## OUTREACH AND SERVICE.
 ---------
-* **Activity Leader.** MSU Girls’ Math & Science Day Activity Leader, “Assemble This” *2019* & "Code Like a Girl" *2015-2018*
+* **Activity Leader.** MSU Girls’ Math & Science Day Activity Leader, “[Assemble This](https://azodichr.github.io/outreach/#assemble-this)” *2019* & "[Code Like a Girl](https://azodichr.github.io/outreach/#code-like-a-girl)" *2015-2018*
 * **President.** MSU Plant Biology Graduate Student Organization *2018-2019*
 * **Committee Member.** Environmental Science Policy Colloquium Committee *2016-2018*
 * **Student Chair.** MSU Plant Biology Graduate Committee *2016-2018*
