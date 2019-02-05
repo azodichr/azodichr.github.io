@@ -59,4 +59,6 @@ Again, all of the puzzles and code cards are available [here](https://github.com
 ---------
 # Assemble this
 
->Coming soon!
+>Using legos as your DNA, test your skills at assembling your own genes while learning about human and plant genomes and about how scientists use computers to assemble whole genomes!
+
+More details coming soon!
