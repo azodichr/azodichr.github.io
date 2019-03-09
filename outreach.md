@@ -26,7 +26,7 @@ Engaging young people into computational research can be challenging. Check out 
 >Learn to think like a computer scientists by writing a program that will get you and your friends around obstacles to make it through a treacherous maze!
 
 
-While this activity was originally developed for middle school age girls for "Girl's Math and Science Day" @ Michigan State University, hosted by the [MSU Graduate Women in Science](https://gwismidmichigan.weebly.com/), it is suitible for all elementary school age students. For students much younger than middle school, simpler mazes may need to be designed. 
+While this activity was originally developed for middle school age girls for "Girl's Math and Science Day" @ Michigan State University, hosted by the [MSU Graduate Women in Science](https://gwismidmichigan.weebly.com/), it is suitable for all elementary school age students. For students much younger than middle school, simpler mazes may need to be designed. 
 
 
 The activity is based loosely off [LightBot](http://lightbot.com/hour-of-code.html), where you have a "robot" (i.e. one of the students) who you are helping through a maze by designing a "program" of step-by-step instructions to make it through the maze. Things get tricky when you introduce functions and limit the number of moves. 
@@ -64,20 +64,18 @@ Again, all of the puzzles and code cards are available [here](https://github.com
 <figure>
 	<p align='center'>
 		<img src="../img/outreach/assemble_this_GMSD.jpg" alt='Puzzle Solvers' height="300px">
-		<figcaption><small><i>Middle schoolers hard at work assembling their lego sequence  (March 2018).</i></small></figcaption>
+		<figcaption><small><i>Middle schoolers hard at work assembling their Lego sequence  (March 2018).</i></small></figcaption>
 
 	</p>
 </figure>
 
->Using legos as your DNA, test your skills at assembling your own genes while learning about human and plant genomes and about how scientists use computers to assemble whole genomes!
+>Using Legos as your DNA, test your skills at assembling your own genes while learning about human and plant genomes and about how scientists use computers to assemble whole genomes!
 
 
-While this activity was originally developed for middle school age girls for "Girl's Math and Science Day" @ Michigan State University, hosted by the [MSU Graduate Women in Science](https://gwismidmichigan.weebly.com/), it is suitible for all elementary school age students. For students much younger than middle school, simpler puzzles may need to be designed. Similarly, this activity could be enjoyable for high schools if given more challenging puzzles. 
+While this activity was originally developed for middle school age girls for "Girl's Math and Science Day" @ Michigan State University, hosted by the [MSU Graduate Women in Science](https://gwismidmichigan.weebly.com/), it is suitable for all elementary school age students. For students much younger than middle school, simpler puzzles may need to be designed. Similarly, this activity could be enjoyable for high schools if given more challenging puzzles. 
 
 
-I started the activity with a short presentation generally explaing what a genome is, when the first human genome was sequenced and what that actually meant, and finally and why genome assembly is so challenging. Then we jumped right into assembling our lego contigs! I designed 4 progressively more difficult puzzles. Each one took a pair of middle school age girls between 5-10 minutes to solve. The first two puzzles are straight forward. The main difficulties that the girls had was understanding that just because two kmers had an overlap didn't mean they had to align with each other and generally being willing to move pieces around that they thought they knew the correct location for. 
-
-The next two puzzles were specifically designed to teach the concepts of adequet sequence coverage and repetitive sequence assembly. For puzzle 3, the students were given enouch k-mers to resolve two separate contigs but those contigs could not fit together... after letting them struggle for a while, we stopped and talked about how this actually happens in genome assembly and that one way to solve it is to get more sequencing done to ensure enough coverage. After that, I provided them with three additional k-mers that allowed them to connect their two contigs. For puzzle 4 I did not tell the students how long the final solution was, after all, in a real scenario, you wouldn't know this. However the k-mers that they were given were so repetative that they could assemble it into a very short contig with very uneven coverage. Then, I told them that the sequence was actually supposed to be 17 legos long. A few were able to figure out how to spread out the k-mers to make it the correct lenght, but most struggled. So we stopped and talked about next generation sequencing (i.e. long read sequencing) and how that was helpful for assembling highly repetative regions.
+I started the activity with a short [presentationn](https://github.com/azodichr/Outreach/tree/master/assemble_this) generally explaining what a genome is, when the first human genome was sequenced and what that actually meant, and finally and why genome assembly is so challenging. Then we jumped right into assembling our Lego contigs! I designed 4 progressively more difficult puzzles. Each one took a pair of middle school age girls between 5-10 minutes to solve. The first two puzzles are straight forward. The main difficulties that the girls had was understanding that just because two kmers had an overlap didn't mean they had to align with each other and generally being willing to move pieces around that they thought they knew the correct location for. 
 
 <figure>
 	<p align='center'>
@@ -87,5 +85,9 @@ The next two puzzles were specifically designed to teach the concepts of adequet
 	</p>
 </figure>
 
-Find the other puzzles and a break down of how many legos you will need [here](https://github.com/azodichr/Outreach/tree/master/assemble_this)!
+The next two puzzles were specifically designed to teach the concepts of adequate sequence coverage and repetitive sequence assembly. For puzzle 3, the students were given enough k-mers to resolve two separate contigs but those contigs could not fit together... after letting them struggle for a while, we stopped and talked about how this actually happens in genome assembly and that one way to solve it is to get more sequencing done to ensure enough coverage. After that, I provided them with three additional k-mers that allowed them to connect their two contigs. For puzzle 4 I did not tell the students how long the final solution was, after all, in a real scenario, you wouldn't know this. However the k-mers that they were given were so repetitive that they could assemble it into a very short contig with very uneven coverage. Then, I told them that the sequence was actually supposed to be 17 Legos long. A few were able to figure out how to spread out the k-mers to make it the correct length, but most struggled. So we stopped and talked about next generation sequencing (i.e. long read sequencing) and how that was helpful for assembling highly repetitive regions.
+
+
+
+Find the other puzzles and a break down of how many Legos you will need [here](https://github.com/azodichr/Outreach/tree/master/assemble_this)!
 
