@@ -6,7 +6,7 @@ use-site-title: true
 ---
 <figure>
 	<p align='center'>
-		<img src="../img/outreach/assemble_this_people.PNG" alt='Genome Assembly with Legos' height="550px">
+		<img src="../img/outreach/assemble_this_people.jpg" alt='Genome Assembly with Legos' height="450px">
 	</p>
 </figure>
 
