@@ -4,6 +4,11 @@ title: Outreach
 subtitle: Teaching programming and bioinformatics
 use-site-title: true
 ---
+<figure>
+	<p align='center'>
+		<img src="../img/outreach/assemble_this_people.PNG" alt='Genome Assembly with Legos' height="550px">
+	</p>
+</figure>
 
 Engaging young people into computational research can be challenging. Check out these fun, hands-on, and computer free activities for teaching skills in computer science and bioinformatics
 
