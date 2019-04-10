@@ -24,7 +24,7 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## 2017
 
-<img src="../img/pubs/journal-article.png" height="20px"> Uygun S<sup>co</sup>, Seddon AE<sup>co</sup>, **Azodi CB**, Shiu SH (2017) Predictive models of spatial transcriptional response to high salinity. *Plant Physiol.* 174:450-464 <sup>co</sup> designates co-first author [Find Here](http://www.plantphysiol.org/content/174/1/450)
+<img src="../img/pubs/journal-article.png" height="20px"> Uygun S<sup>co</sup>, Seddon AE<sup>co</sup>, **Azodi CB**, Shiu SH (2017) Predictive models of spatial transcriptional response to high salinity. *Plant Physiol.* 174:450-464 [Find Here](http://www.plantphysiol.org/content/174/1/450)
 
 <img src="../img/pubs/journal-article.png" height="20px"> Dowdell AS, Murphy MD, **Azodi CB**, Swanson SK, Florens L, Chen S. Zückert WR. (2017) Comprehensive spatial analysis of the Borrelia burgdorferi lipoproteome reveals a compartmentalization bias toward the bacterial surface. *J of Bacteriology.* 174:450-464 [Find Here](https://jb.asm.org/content/jb/early/2017/01/05/JB.00658-16.full.pdf)
 
