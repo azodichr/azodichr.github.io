@@ -7,6 +7,8 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## Coming Soon...
 
+<img src="../img/pubs/preprint.png" height="20px"> **Azodi CB**, McCarren A, Roantree M, de los Campos G, Shiu SH. Benchmarking algorithms for genomic prediction of complex traits. [bioRxiv](https://www.biorxiv.org/content/10.1101/614479v1?rss=1) 
+
 <img src="../img/pubs/preprint.png" height="20px"> **Azodi CB**, Pardo J, VanBuren R, de los Campos G, Shiu SH. Transcriptome-based prediction of complex traits in maize. [bioRxiv](https://www.biorxiv.org/content/10.1101/587121v3) 
 
 <img src="../img/pubs/preprint.png" height="20px"> Uygun S<sup>co</sup>, **Azodi CB<sup>co</sup>**, Shiu SH. Cis-regulatory code for predicting plant cell-type specific high salinity response. [bioRxiv](https://doi.org/10.1101/466326) 
