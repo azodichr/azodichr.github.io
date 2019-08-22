@@ -19,15 +19,17 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 
 ## 2019
-<img src="../img/pubs/journal-article.png" height="20px"> Lloyd JP, Bowman MJ, **Azodi CB**, Moghe GD, Childs KL, Shiu SH. Evolutionary characteristics of intergenic transcribed regions indicate rare novel genes and widespread noisy transcription in the *Poaceae*. *Scientific Reports.* [Manuscript in production](https://doi.org/10.1101/440933)
+<img src="../img/pubs/journal-article.png" height="20px"> Lloyd JP, Bowman MJ, **Azodi CB**, Moghe GD, Childs KL, Shiu SH. Evolutionary characteristics of intergenic transcribed regions indicate rare novel genes and widespread noisy transcription in the *Poaceae*. *Scientific Reports.* [Find Here](https://www.nature.com/articles/s41598-019-47797-y)
 
 <img src="../img/pubs/journal-article.png" height="20px"> Panchy NL, **Azodi CB**, Winship EF, Shiu SH (2019) Expression and regulatory asymmetry of retained *Arabidopsis thaliana* transcription factor genes derived from whole genome duplication. *BMC Genomics.* 19:77 [Find Here](https://bmcevolbiol.biomedcentral.com/articles/10.1186/s12862-019-1398-z)
+
 
 ## 2017
 
 <img src="../img/pubs/journal-article.png" height="20px"> Uygun S<sup>co</sup>, Seddon AE<sup>co</sup>, **Azodi CB**, Shiu SH (2017) Predictive models of spatial transcriptional response to high salinity. *Plant Physiol.* 174:450-464 [Find Here](http://www.plantphysiol.org/content/174/1/450)
 
 <img src="../img/pubs/journal-article.png" height="20px"> Dowdell AS, Murphy MD, **Azodi CB**, Swanson SK, Florens L, Chen S. Zückert WR. (2017) Comprehensive spatial analysis of the Borrelia burgdorferi lipoproteome reveals a compartmentalization bias toward the bacterial surface. *J of Bacteriology.* 174:450-464 [Find Here](https://jb.asm.org/content/jb/early/2017/01/05/JB.00658-16.full.pdf)
+
 
 ## 2015
 
