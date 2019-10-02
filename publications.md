@@ -7,18 +7,18 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## Coming Soon...
 
-<img src="../img/pubs/preprint.png" height="20px"> **Azodi CB**, Pardo J, VanBuren R, de los Campos G, Shiu SH. Transcriptome-based prediction of complex traits in maize. [bioRxiv](https://www.biorxiv.org/content/10.1101/587121v3) 
-
 <img src="../img/pubs/preprint.png" height="20px"> Schwarz B, **Azodi CB**, Shiu SH, Bauer P. Putative *cis*-regulatory elements predict iron deficiency responses in *Arabidopsis* roots. [bioRxiv](https://www.biorxiv.org/content/10.1101/603290v2)
 
 
 ## 2019
 
+<img src="../img/pubs/journal-article.png" height="20px"> **Azodi CB**, Pardo J, VanBuren R, de los Campos G, Shiu SH. Transcriptome-based prediction of complex traits in maize. [Find Here](https://www.biorxiv.org/content/10.1101/587121v3) 
+
 <img src="../img/pubs/journal-article.png" height="20px"> **Azodi CB**, Dietz T. (2019) Perceptions of emerging biotechnologies. *Environmental Research Letters.* [Find Here](https://iopscience.iop.org/article/10.1088/1748-9326/ab4433)
 
-<img src="../img/pubs/journal-article.png" height="20px"> **Azodi CB**, McCarren A, Roantree M, de los Campos G, Shiu SH. (2019) Benchmarking algorithms for genomic prediction of complex traits. *G3*. [Find Here](https://www.biorxiv.org/content/10.1101/614479v1?rss=1) 
+<img src="../img/pubs/journal-article.png" height="20px"> **Azodi CB**, McCarren A, Roantree M, de los Campos G, Shiu SH. (2019) Benchmarking algorithms for genomic prediction of complex traits. *G3*. [Find Here](https://www.g3journal.org/content/early/2019/09/18/g3.119.400498) 
 
-<img src="../img/pubs/journal-article.png" height="20px"> Uygun S<sup>co</sup>, **Azodi CB<sup>co</sup>**, Shiu SH. (2019) Cis-regulatory code for predicting plant cell-type specific high salinity response. *Plant Physiology*. [Find Here](https://doi.org/10.1101/466326) 
+<img src="../img/pubs/journal-article.png" height="20px"> Uygun S<sup>co</sup>, **Azodi CB<sup>co</sup>**, Shiu SH. (2019) Cis-regulatory code for predicting plant cell-type specific high salinity response. *Plant Physiology*. [Find Here](http://www.plantphysiol.org/content/early/2019/09/24/pp.19.00653.long) 
 
 <img src="../img/pubs/journal-article.png" height="20px"> Lloyd JP, Bowman MJ, **Azodi CB**, Moghe GD, Childs KL, Shiu SH. (2019) Evolutionary characteristics of intergenic transcribed regions indicate rare novel genes and widespread noisy transcription in the *Poaceae*. *Scientific Reports.* [Find Here](https://www.nature.com/articles/s41598-019-47797-y)
 
