@@ -8,22 +8,22 @@ use-site-title: true
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[EDUCATION](#education) &nbsp; &nbsp; [RESEARCH](#research-experience) &nbsp; &nbsp; [TEACHING](#teaching-and-mentoring) &nbsp; &nbsp; [OUTREACH](#outreach-and-service) &nbsp; &nbsp; [AWARDS](#honors-and-awards) 
 
 
-*Computational biologist working at the interface of data science & bioinformatics to study plant systems biology. Research interests include predictive biology, omic data integration, gene regulatory codes, deep learning, feature importance analysis, & perceptions of biotechnology.*
+*Computational biologist working at the interface of data science & bioinformatics to study plant systems biology. Research interests include predictive biology, omic data integration, gene regulatory codes, deep learning, single cell genomics, and interpretable machine learning.*
 
 
 
-## EDUCATION.
-
+## EDUCATION
 ---------
-
-|June 2014 - Current     |Ph.D. in Plant Biology     |Michigan State University     |East Lansing, MI     |
+|June 2014 - Oct 2019     |Ph.D. in Plant Biology     |Michigan State University     |East Lansing, MI     |
 |Aug 2008 - May 2012     |B.A. in Molecular Biology and Biochemistry     | Middlebury College    |Middlebury, VT    |
 
 
-## RESEARCH EXPERIENCE.
+## RESEARCH EXPERIENCE
 ---------
+**Post-doctoral fellow.** November 2019 - current. *St. Vincent's Institute of Medical Research, Fitzroy, Victoria, Australia*
+>Focus: Developing algorithms and pipelines to study and better understand transcriptional variation at the single cell level. Supervised by [Davis McCarthy](https://www.svi.edu.au/research_themes/research_staff/dr_davis_mccarthy).
 
-**Graduate Student.** June 2014 - Current. *Michigan State University, East Lansing MI*
+**Graduate Student.** June 2014 - October 2019. *Michigan State University, East Lansing MI*
 >Dissertation: From genotype to phenotype with maching learning. Supervised by [Shin-Han Shiu](http://shiulab.plantbiology.msu.edu/index.php?title=Shin-Han_Shiu). Committee Members include: [Yuying Xie](https://cmse.msu.edu/directory/faculty/yuying-xie/), [David Lowry](https://davidbryantlowry.wordpress.com/), and [David Kramer](https://prl.natsci.msu.edu/people/faculty/david-m-kramer/).
 
 **Visiting Scientist.** August 2018 - December 2018. *Insight Center for Data Analytics, Dublin City University, Dublin Ireland.*
@@ -38,22 +38,19 @@ use-site-title: true
 **Summer Research Intern.** June 2011 - August 2011. *Donald Danforth Plant Science Center, St. Louis, MO*
 >Metabolic engineering of Chlamydomonas reinhardtii for improved lipid accumulation by knocking down the starch biosynthesis pathway. Supervised by [Richard Sayre](https://scholar.google.com/citations?user=uJMA_YsAAAAJ&hl=en).
 
-
 **Summer Research Intern.** June 2009 - August 2009. *Kansas University Medical Center, Kansas City, KS*
 >Identify sorting signals for localization of lipoproteins in Borrelia burgdorfori. Supervised by [Wolfram Zückert](http://www.kumc.edu/school-of-medicine/microbiology-molecular-genetics-and-immunology/primary-faculty-appointments/wolfram-r-z%C3%BCckert/z%C3%BCckert-lab.html).
 
 
-
-## TEACHING AND MENTORING.
+## TEACHING AND MENTORING
 ---------
-
 * **Teaching Assistant.** Plant Physiology Lab. *MSU, Spring 2018*
 * **Lead Instructor.** REU 1 Day [Coding Bootcamp](https://github.com/azodichr/CompBio_Bootcamp). *MSU, Summer 2017 & 2018*
 * **Undergraduate Student Mentor.** Dante Poe. *Spring 2015 - Summer 2018*
 * **REU Student Mentor.** Michael Douglass. *Summer 2017*
 
 
-## OUTREACH AND SERVICE.
+## OUTREACH AND SERVICE
 ---------
 * **Activity Leader.** MSU Girls’ Math & Science Day Activity Leader, “[Assemble This](https://azodichr.github.io/outreach/#assemble-this)” *2019* & "[Code Like a Girl](https://azodichr.github.io/outreach/#code-like-a-girl)" *2015-2018*
 * **President.** MSU Plant Biology Graduate Student Organization *2018-2019*
@@ -67,7 +64,8 @@ use-site-title: true
 * **Activity Leader.** Plant Science Day in 3rd grade classroom *2013*
 * **Activity Leader.** Science Station @ Girl Scout Day Camp *2006-2008*
 
-## HONORS AND AWARDS.
+
+## HONORS AND AWARDS
 ---------
 * 2018  NSF Graduate Research Opportunities Worldwide, Ireland
 * 2018  Great Lakes Bioenergy Research Center Symposium Flash Talk Oral Competition Winner
@@ -75,5 +73,4 @@ use-site-title: true
 * 2017  MSU Plant Science Grad Research Symposium 3rd place Oral Competition
 * 2015  NSF Graduate Research Fellowship
 * 2014  Environmental Science & Policy Fellowship
-
 
