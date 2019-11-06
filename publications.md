@@ -16,7 +16,7 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 <img src="../img/pubs/journal-article.png" height="20px"> **Azodi CB**, Dietz T. (2019) Perceptions of emerging biotechnologies. *Environmental Research Letters.* [Find Here](https://iopscience.iop.org/article/10.1088/1748-9326/ab4433)
 
-<img src="../img/pubs/journal-article.png" height="20px"> **Azodi CB**, McCarren A, Roantree M, de los Campos G, Shiu SH. (2019) Benchmarking algorithms for genomic prediction of complex traits. *G3*. [Find Here](https://www.g3journal.org/content/early/2019/09/18/g3.119.400498) 
+<img src="../img/pubs/journal-article.png" height="20px"> **Azodi CB**, McCarren A, Roantree M, de los Campos G, Shiu SH. (2019) Benchmarking algorithms for genomic prediction of complex traits. *G3*. [Find Here](https://www.g3journal.org/content/9/11/3691) 
 
 <img src="../img/pubs/journal-article.png" height="20px"> Uygun S<sup>co</sup>, **Azodi CB<sup>co</sup>**, Shiu SH. (2019) Cis-regulatory code for predicting plant cell-type specific high salinity response. *Plant Physiology*. [Find Here](http://www.plantphysiol.org/content/early/2019/09/24/pp.19.00653.long) 
 
