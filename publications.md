@@ -12,7 +12,7 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## 2019
 
-<img src="../img/pubs/journal-article.png" height="20px"> **Azodi CB**, Pardo J, VanBuren R, de los Campos G, Shiu SH. Transcriptome-based prediction of complex traits in maize. [Find Here](https://www.biorxiv.org/content/10.1101/587121v3) 
+<img src="../img/pubs/journal-article.png" height="20px"> **Azodi CB**, Pardo J, VanBuren R, de los Campos G, Shiu SH. Transcriptome-based prediction of complex traits in maize. [Find Here](http://www.plantcell.org/content/early/2019/10/22/tpc.19.00332) 
 
 <img src="../img/pubs/journal-article.png" height="20px"> **Azodi CB**, Dietz T. (2019) Perceptions of emerging biotechnologies. *Environmental Research Letters.* [Find Here](https://iopscience.iop.org/article/10.1088/1748-9326/ab4433)
 
