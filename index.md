@@ -48,8 +48,8 @@ use-site-title: true
 * **Teaching Assistant.** Plant Physiology Lab. *MSU, Spring 2018*
 * **Lead Instructor.** REU 1 Day [Coding Bootcamp](https://github.com/azodichr/CompBio_Bootcamp). *MSU, Summer 2017 & 2018*
 * **Undergraduate Student Mentor.** Dante Poe. *Spring 2015 - Summer 2018*
+* **ACRES REU Student Mentor.** Emily Bolger and Ketan Jog. *Summer 2019*
 * **REU Student Mentor.** Michael Douglass. *Summer 2017*
-
 
 ## OUTREACH AND SERVICE
 ---------
