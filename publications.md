@@ -7,12 +7,17 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## Coming Soon...
 
-<img src="../img/pubs/preprint.png" height="20px"> Schwarz B, **Azodi CB**, Shiu SH, Bauer P. Putative *cis*-regulatory elements predict iron deficiency responses in *Arabidopsis* roots. [bioRxiv](https://www.biorxiv.org/content/10.1101/603290v2)
+<img src="../img/pubs/preprint.png" height="20px"> **Azodi CB**, Jiliang Tang, Shiu SH. Opening the Black Box: Interpretable Machine Learning for Geneticists. [preprint](https://www.preprints.org/manuscript/202002.0239/v1)
+
+
+## 2020
+
+<img src="../img/pubs/journal-article.png" height="20px"> Schwarz B, **Azodi CB**, Shiu SH, Bauer P. Putative *cis*-regulatory elements predict iron deficiency responses in *Arabidopsis* roots. *Plant Physiology* [Find Here](http://www.plantphysiol.org/content/early/2020/01/14/pp.19.00760)
 
 
 ## 2019
 
-<img src="../img/pubs/journal-article.png" height="20px"> **Azodi CB**, Pardo J, VanBuren R, de los Campos G, Shiu SH. Transcriptome-based prediction of complex traits in maize. [Find Here](http://www.plantcell.org/content/early/2019/10/22/tpc.19.00332) 
+<img src="../img/pubs/journal-article.png" height="20px"> **Azodi CB**, Pardo J, VanBuren R, de los Campos G, Shiu SH. Transcriptome-based prediction of complex traits in maize. *The Plant Cell.* [Find Here](http://www.plantcell.org/content/early/2019/10/22/tpc.19.00332) 
 
 <img src="../img/pubs/journal-article.png" height="20px"> **Azodi CB**, Dietz T. (2019) Perceptions of emerging biotechnologies. *Environmental Research Letters.* [Find Here](https://iopscience.iop.org/article/10.1088/1748-9326/ab4433)
 
