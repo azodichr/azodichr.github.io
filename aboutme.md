@@ -9,4 +9,4 @@ subtitle: In a nutshell...
 </p>
 
 
-I live in Lansing, MI, where I am a PhD candidate studying plant science and computational biology in the [Shin-Han Shiu](https://github.com/ShiuLab) lab. I enjoy working at the interface of different fields. My dissertation research touches on plant genetics, data science, predictive biology, gene regulation, genomics, and even a bit of social science. My main focus is on developing machine learning and deep learning algorithms to predict important plant traits from genetic data. My undergraduate degree is in Molecular Biology and Biochemistry from Middlebury College. 
+I live in Melbourne, Australia, where I am a post-doctoral researcher studying functional genomics at the single cell level in the [Davis McCarthy](https://www.svi.edu.au/research_themes/bioinformatics_and_cellular_genomics/) lab. I enjoy working at the interface of different fields. My PhD research touched on plant genetics, data science, predictive biology, gene regulation, genomics, and even a bit of social science. My undergraduate degree is in Molecular Biology and Biochemistry from Middlebury College. 
