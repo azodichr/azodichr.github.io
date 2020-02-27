@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Christina B. Azodi
-subtitle: PhD Candidate in Plant Biology
+subtitle: Post-doctoral researcher in Bioinformatics & Cellular Genomics
 use-site-title: true
 ---
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[EDUCATION](#education) &nbsp; &nbsp; [RESEARCH](#research-experience) &nbsp; &nbsp; [TEACHING](#teaching-and-mentoring) &nbsp; &nbsp; [OUTREACH](#outreach-and-service) &nbsp; &nbsp; [AWARDS](#honors-and-awards) 
 
 
-*Computational biologist working at the interface of data science & bioinformatics to study plant systems biology. Research interests include predictive biology, omic data integration, gene regulatory codes, deep learning, single cell genomics, and interpretable machine learning.*
+*Computational biologist working at the interface of data science & bioinformatics to study functional genomics. Research interests include interpretable machine learning, omic data integration, stress response regulation, deep learning, and single cell genomics.*
 
 
 
@@ -22,7 +22,7 @@ use-site-title: true
 ## RESEARCH EXPERIENCE
 ---------
 **Post-doctoral fellow.** November 2019 - current. *St. Vincent's Institute of Medical Research, Fitzroy, Victoria, Australia*
->Focus: Developing algorithms and pipelines to study and better understand transcriptional variation at the single cell level. Supervised by [Davis McCarthy](https://www.svi.edu.au/research_themes/research_staff/dr_davis_mccarthy).
+>Focus: Developing algorithms and methods to study transcriptional variation and functional genomics at the single cell level. Supervised by [Davis McCarthy](https://www.svi.edu.au/research_themes/research_staff/dr_davis_mccarthy).
 
 **Graduate Student.** June 2014 - October 2019. *Michigan State University, East Lansing MI*
 >Dissertation: From genotype to phenotype with maching learning. Supervised by [Shin-Han Shiu](http://shiulab.plantbiology.msu.edu/index.php?title=Shin-Han_Shiu). Committee Members include: [Yuying Xie](https://cmse.msu.edu/directory/faculty/yuying-xie/), [David Lowry](https://davidbryantlowry.wordpress.com/), and [David Kramer](https://prl.natsci.msu.edu/people/faculty/david-m-kramer/).
