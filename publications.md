@@ -14,7 +14,7 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## 2020
 
-<img src="../img/pubs/journal-article.png" height="20px"> Schwarz B, **Azodi CB**, Shiu SH, Bauer P. Putative *cis*-regulatory elements predict iron deficiency responses in *Arabidopsis* roots. *Plant Physiology* [Find Here](http://www.plantphysiol.org/content/early/2020/01/14/pp.19.00760)
+<img src="../img/pubs/journal-article.png" height="20px"> Schwarz B, **Azodi CB**, Shiu SH, Bauer P. Putative *cis*-regulatory elements predict iron deficiency responses in *Arabidopsis* roots. *Plant Physiology.* [Find Here](http://www.plantphysiol.org/content/early/2020/01/14/pp.19.00760)
 
 
 ## 2019
@@ -41,7 +41,7 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## 2015
 
-<img src="../img/pubs/journal-article.png" height="20px"> D'Aloia CC, **Azodi CB**, Sheldon SP, Trombulak SC, Ardren WR. (2015) Genetic models reveal historical patterns of sea lamprey population fluctuations within Lake Champlain. *PeerJ.* 3:e1369 [Find Here](https://peerj.com/articles/1369/)
+<img src="../img/pubs/journal-article.png" height="20px"> D'Aloia CC, **Azodi CB**, Sheldon SP, Trombulak SC, Ardren WR. (2015) Genetic models reveal historical patterns of sea lamprey population fluctuations within Lake Champlain. *PeerJ.* [Find Here](https://peerj.com/articles/1369/)
 
 
 _______________
