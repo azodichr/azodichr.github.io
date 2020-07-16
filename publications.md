@@ -7,10 +7,12 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## Coming Soon...
 
-<img src="../img/pubs/preprint.png" height="20px"> **Azodi CB**, LLoyd JP, Shiu SH. The cis-regulatory codes of response to combined heat and drought stress in Arabidopsis thaliana. [preprint](https://www.biorxiv.org/content/10.1101/2020.02.28.969261v1)
+Wu, T., H. Goh, **C.B. Azodi**, M. Liu, & D. Urano. Evolutionarily-conserved hierarchical gene regulatory networks for plant salt stress responses.
 
 
 ## 2020
+
+<img src="../img/pubs/journal-article.png" height="20px"> **Azodi CB**, LLoyd JP, Shiu SH. The cis-regulatory codes of response to combined heat and drought stress in Arabidopsis thaliana. *NAR Genomics and Bioinformatics* [Find Here](https://www.biorxiv.org/content/10.1101/2020.02.28.969261v1)
 
 <img src="../img/pubs/review.png" height="20px"> **Azodi CB**, Tang J, Shiu SH. Opening the Black Box: Interpretable Machine Learning for Geneticists. *Trends in Genetics*. [Find Here](https://www.cell.com/trends/genetics/fulltext/S0168-9525(20)30069-X)
 
