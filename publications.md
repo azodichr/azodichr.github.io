@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-I can also be found on [Google Scholar](https://scholar.google.com/citations?user=JBAP86YAAAAJ&hl=en). Please feel free to contact me for access to pdfs or preprints. 
+I am also on [Google Scholar](https://scholar.google.com/citations?user=JBAP86YAAAAJ&hl=en). Please contact me for access to pdfs. 
 
 ## Coming Soon...
 
