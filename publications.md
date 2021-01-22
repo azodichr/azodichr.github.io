@@ -7,6 +7,8 @@ I am also on [Google Scholar](https://scholar.google.com/citations?user=JBAP86YA
 
 ## Coming Soon...
 
+<img src="../img/pubs/preprint.png" height="20px"> Cuomo, ASE<sup>co</sup>, Alvari G<sup>co</sup>, **Azodi CB<sup>co</sup>**, single-cell eQTLGen consortium, McCarthy DJ, Bonder MJ. Optimising expression quantitative trait locus mapping workflows for single-cell studies. [preprint](https://www.biorxiv.org/content/10.1101/2021.01.20.427401v1).
+
 Wu, T., H. Goh, **C.B. Azodi**, M. Liu, & D. Urano. Evolutionarily-conserved hierarchical gene regulatory networks for plant salt stress responses.
 
 
