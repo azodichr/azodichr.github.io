@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-I am also on [Google Scholar](https://scholar.google.com/citations?user=JBAP86YAAAAJ&hl=en). Please contact me for access to pdfs. 
+**Please contact me for access to pdfs!**
 
 ## Coming Soon...
 
@@ -48,6 +48,7 @@ Wu, T., H. Goh, **C.B. Azodi**, M. Liu, & D. Urano. Evolutionarily-conserved hie
 <img src="../img/pubs/journal-article.png" height="20px"> D'Aloia CC, **Azodi CB**, Sheldon SP, Trombulak SC, Ardren WR. (2015) Genetic models reveal historical patterns of sea lamprey population fluctuations within Lake Champlain. *PeerJ.* [Find Here](https://peerj.com/articles/1369/).
 
 
+[Google Scholar](https://scholar.google.com/citations?user=JBAP86YAAAAJ&hl=en).
 _______________
 
 <sup>co</sup> designates co-first author
