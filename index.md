@@ -8,7 +8,7 @@ use-site-title: true
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[EDUCATION](#education) &nbsp; &nbsp; [RESEARCH](#research-experience) &nbsp; &nbsp; [TEACHING](#teaching-and-mentoring) &nbsp; &nbsp; [OUTREACH](#outreach-and-service) &nbsp; &nbsp; [AWARDS](#honors-and-awards) 
 
 
-* My research is about uncovering how genetic differences lead to differences in complex traits like disease susceptibility in humans or grain yield in crops. The best parts of my job are getting to talk to biologists about data science and statistics and getting to talk to statisticians about genomics and biology. Research interests at the moment are interpretable machine learning, single-cell genomics, genotyoe-to-phenotype mapping, and multi-omic data integration.*
+*My research is about uncovering how genetic differences lead to differences in complex traits like disease susceptibility in humans or grain yield in crops. The best parts of my job are getting to talk to biologists about data science and statistics and getting to talk to statisticians about genomics and biology. Areas of interests at the moment are interpretable machine learning, single-cell genomics, genotyoe-to-phenotype mapping, and multi-omic data integration.*
 
 
 
