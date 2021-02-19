@@ -8,7 +8,7 @@ use-site-title: true
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[EDUCATION](#education) &nbsp; &nbsp; [RESEARCH](#research-experience) &nbsp; &nbsp; [TEACHING](#teaching-and-mentoring) &nbsp; &nbsp; [OUTREACH](#outreach-and-service) &nbsp; &nbsp; [AWARDS](#honors-and-awards) 
 
 
-*Computational biologist working at the interface of data science & bioinformatics to study functional genomics. Research interests include interpretable machine learning, omic data integration, stress response regulation, deep learning, and single cell genomics.*
+* My research is about uncovering how genetic differences lead to differences in complex traits like disease susceptibility in humans or grain yield in crops. The best parts of my job are getting to talk to biologists about data science and statistics and getting to talk to statisticians about genomics and biology. Research interests at the moment are interpretable machine learning, single-cell genomics, genotyoe-to-phenotype mapping, and multi-omic data integration.*
 
 
 
@@ -22,7 +22,7 @@ use-site-title: true
 ## RESEARCH EXPERIENCE
 ---------
 **Post-doctoral fellow.** November 2019 - current. *St. Vincent's Institute of Medical Research, Fitzroy, Victoria, Australia*
->Focus: Developing algorithms and methods to study transcriptional variation and functional genomics at the single cell level. Supervised by [Davis McCarthy](https://www.svi.edu.au/research_themes/research_staff/dr_davis_mccarthy).
+>Focus: Developing algorithms and methods to study transcriptional variation and functional genomics at the single cell level. [Read more here.](https://www.svi.edu.au/research_themes/research_staff/christina_azodi) Supervised by [Davis McCarthy](https://www.svi.edu.au/research_themes/research_staff/dr_davis_mccarthy).
 
 **Graduate Student.** June 2014 - October 2019. *Michigan State University, East Lansing MI*
 >Dissertation: From genotype to phenotype with maching learning. Supervised by [Shin-Han Shiu](http://shiulab.plantbiology.msu.edu/index.php?title=Shin-Han_Shiu). Committee Members include: [Yuying Xie](https://cmse.msu.edu/directory/faculty/yuying-xie/), [David Lowry](https://davidbryantlowry.wordpress.com/), and [David Kramer](https://prl.natsci.msu.edu/people/faculty/david-m-kramer/).
